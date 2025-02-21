@@ -6,6 +6,6 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
 redis
-mysql:alpine8.0.37
+mysql
 mongo
 rabbitmq

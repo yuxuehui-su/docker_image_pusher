@@ -7,6 +7,5 @@ xhofe/alist:latest
 python:alpine3.19
 redis
 mysql
-oracle
 mongo
 rabbitmq

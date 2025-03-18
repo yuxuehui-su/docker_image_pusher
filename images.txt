@@ -1,1 +1,1 @@
-enmotech/opengauss-lite
+mysql
